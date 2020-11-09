@@ -4,7 +4,13 @@ Notifier change of rank every 1 minutes
 
 ## Installation & Run
 
-1. Install all libraries
+1. init node project
+
+```
+npm init
+```
+
+2. Install all libraries ( npm install LIBRARY-NAME@VERSION )
 
 - discord.js@11.5.1
 
@@ -14,13 +20,13 @@ Notifier change of rank every 1 minutes
 
 - request@2.88.2
 
-2. Config all API key
+3. Config all API key
 
 - [Tracker.gg](https://tracker.gg/developers/apps)
 
 - [Discord](https://discordapp.com/developers/applications/)
 
-### From Source
+4. Running the bot
 
 ```
 node index.js
