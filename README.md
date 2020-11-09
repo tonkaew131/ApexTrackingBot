@@ -4,7 +4,7 @@ Notifier change of rank every 1 minutes
 
 ## Installation & Run
 
-Install all of library
+Install all libraries
 
 1. discord.js@11.5.1
 
