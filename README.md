@@ -4,15 +4,21 @@ Notifier change of rank every 1 minutes
 
 ## Installation & Run
 
-Install all libraries
+1. Install all libraries
 
-1. discord.js@11.5.1
+- discord.js@11.5.1
 
-2. node-json-db@1.1.0
+- node-json-db@1.1.0
 
-3. node-schedule@1.3.2
+- node-schedule@1.3.2
 
-4. request@2.88.2
+- request@2.88.2
+
+2. Config all API key
+
+- [Tracker.gg](https://tracker.gg/developers/apps)
+
+- [Discord](https://discordapp.com/developers/applications/)
 
 ### From Source
 
