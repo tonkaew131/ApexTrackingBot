@@ -1,5 +1,3 @@
-# ApexTrackingBot
-
 # Apex Legends Rank Tracker Bot
 
 Notifier change of rank every 1 minutes
