@@ -20,6 +20,8 @@ npm init
 
 - request@2.88.2
 
+- image-charts@5.6.10
+
 3. Config all API key
 
 - [Tracker.gg](https://tracker.gg/developers/apps)
